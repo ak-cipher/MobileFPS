@@ -1,20 +1,3 @@
-{
-    "name": "PhotonVoice.Fusion",
-    "rootNamespace": "",
-    "references": [
-        "GUID:b59fae9c7ebc1574e8690f2570b29d6f",
-        "GUID:831409e8f9d13b5479a3baef9822ad34",
-        "GUID:8e3c55029ca641543bf030857af4d525"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [
-        "FUSION_WEAVER"
-    ],
-    "versionDefines": [],
-    "noEngineReferences": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:058fb60c830033cd8048014e0519ba4aadee447ad1adeb20899804e437287646
+size 550
